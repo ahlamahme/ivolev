@@ -1,7 +1,7 @@
 # ivolev_day_1
 
 for mail send : <br>
-``bash
+```bash
    sudo apt update
 ```
 
